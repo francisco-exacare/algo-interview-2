@@ -8,7 +8,7 @@ A senior living community is testing its emergency evacuation procedures. The co
 
 - You always start in the first hall (index 0).
 - The number at each hall represents the maximum distance (in steps) you can move forward from that hall. For example:
-- If the number in the current hall is 3, you can move to any of the next 1, 2, or 3 halls.
+    - If the number in the current hall is 3, you can move to any of the next 1, 2, or 3 halls.
 - You cannot move backward.
 - Your objective is to find the minimum number of steps required to reach the exit hall.
 
@@ -26,8 +26,6 @@ A single integer representing the minimum number of steps needed to reach the ex
 - The array will always have at least one element (the starting hall).
 - If the array has only one element, you are already at the exit, and no moves are needed.
 - The array will contain only positive integers.
-
-## Examples
 
 ## Example 1
 
