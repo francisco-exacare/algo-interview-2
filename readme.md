@@ -15,7 +15,7 @@ A senior living community is testing its emergency evacuation procedures. The co
 ## Input
 
 A single array of positive integers, where each integer represents the maximum number of steps you can take forward from that hall.
-- Example: [2, 3, 1, 1, 4]
+- Example: [2, 3, 1, 1, 5]
 
 ## Output
 
